@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: Nachtwälder-Wiki
+draft: false
+tags:
+  -
 ---
+Das ist ein Wiki.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Es gibt folgende Orte:
+[[Der blaue Fluss]]
+[[Korallenriff]]
+[[Sümpfe]]
+[[Wälder]]
+
+
