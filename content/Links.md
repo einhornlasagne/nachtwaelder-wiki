@@ -2,7 +2,6 @@
 title: Links
 draft: false
 tags:
-  - wiki
 ---
  Das deutsche Grundregelwerk für Pathfinder:
  

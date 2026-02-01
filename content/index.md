@@ -2,7 +2,6 @@
 title: Nachtwälder-Wiki
 draft: false
 tags:
-  - wiki
 banner: "[[headerFluss.jpg]]"
 ---
 # Die Nachtwälder
