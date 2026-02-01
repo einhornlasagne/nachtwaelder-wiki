@@ -15,13 +15,14 @@ Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten 
 
 ![[nachtwaelder.jpg]]
 
-## Die tiefen Wälder
+## [[Die tiefen Wälder]]
 
 ### Der blaue Fluss: [[Carradoran]]
 
 - ein tiefblauer, weit verzeigter Fluss
 - Haupthandelsweg und -verkehrsader der tiefen Wälder
 - mündet in [[Ahnara]] in die endlose See 
+- der [[Kult der blauen Welle]] sucht seit Jahrhunderten einen Weg zur Quelle des Flusses
 ### [[Carravin]]
 
 - Stadt inmitten der tiefen Wälder
@@ -80,8 +81,9 @@ Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten 
 
 ![[Karte.png]]
 
-*Legende*
-		A [[Ahnara]]
-		B [[Belmarvyn]]
-		C [[Carravin]]
-		S [[Skarnov]]
+> [!example] Legende
+> A [[Ahnara]]
+B [[Belmarvyn]]
+C [[Carravin]]
+S [[Skarnov]]
+

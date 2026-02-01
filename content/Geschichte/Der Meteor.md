@@ -2,7 +2,6 @@
 title: Der Meteor
 draft: false
 tags:
-  - "#wiki"
 aliases:
   - n.M.
 ---

@@ -2,7 +2,6 @@
 title: Skarnov
 draft: false
 tags:
-  - "#wiki"
 ---
  
 # Die Stadt der ertrunkenen Könige

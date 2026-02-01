@@ -2,7 +2,6 @@
 title: Belmarvyn
 draft: false
 tags:
-  - "#wiki"
 ---
  
 # Die sternenlose Stadt
