@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "de-DE",
+    baseUrl: "https://einhornlasagne.github.io/nachtwaelder-wiki/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -56,9 +56,6 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
@@ -72,6 +69,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.HardLineBreaks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
