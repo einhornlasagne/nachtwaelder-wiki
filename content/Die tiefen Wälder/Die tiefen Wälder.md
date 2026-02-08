@@ -17,6 +17,6 @@ An den östlichen Flussläufen wurden Dörfer der Menschen oder Halbelfen gebaut
 
 ## In den Wäldern
 
-Die Elfen haben sich in ihre Baumstädte in den Tiefen der wälder zurück gezogen, wo sie nur hin und wieder ein verirrter Abenteurer findet.
+Die Elfen haben sich in ihre Baumstädte in den Tiefen der Wälder zurück gezogen, wo sie nur hin und wieder ein verirrter Abenteurer findet.
 
 Wer sich vom Fluss weg in die Tiefen der Wälder wagt, den erwarten nicht nur Schätze, alte Ruinen und historische Elfenstädte, sondern auch Monster, die sich zwischen den Bäumen verstecken oder gar als Bäume tarnen, alte Flüche und vergessene Dämonen, die hungrig auf zu mutige Abenteurer warten. 

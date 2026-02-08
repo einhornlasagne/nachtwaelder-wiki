@@ -86,3 +86,7 @@ B [[Belmarvyn]]
 C [[Carravin]]
 S [[Skarnov]]
 
+## Kultur, Religion und anderes
+
+- Wichtig zu wissen für alle, die Kleriker, Streiter oder einen magiekundigen Charakter spielen: [[Magie und Religion]] (und für die anderen auch)
+

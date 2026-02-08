@@ -15,4 +15,6 @@ Falls ihr schon mal einen Charakter basteln wollt (braucht einen Account). Ist a
 
 https://app.demiplane.com/nexus/pathfinder2e
 
+Cheat-sheet:
+https://worldhub.azurewebsites.net/Handouts/Pathfinder%202e%20Remaster%20Actions%20and%20Activites%20Cheat%20Sheet%20(Light%20Mode)-1.pdf
 
