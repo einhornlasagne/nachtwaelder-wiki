@@ -23,3 +23,6 @@ Menschen machen gut die Hälfte der Bevölkerung Ahnaras aus.
 
 ### Halblinge
 Es gibt eine große Halblingsgemeinschaft in Ahnara. Die meisten Halblinge kommen jedoch aus einer der vielen Siedlungen entlang des Caardoran nördlich von Ahnara. 
+
+
+%% Die Gründerin der Stadt ist verschwunden, es ranken sich viele Legenden um ihren Verbleib. Was niemand weiß: sie ist noch immer unter ihrer Stadt gefangen, wo sie mit Magie gefangen ist und etwas Böses davon abhält, die Silberküste heim zu suchen %%
