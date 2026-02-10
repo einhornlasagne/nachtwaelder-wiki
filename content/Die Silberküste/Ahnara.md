@@ -7,14 +7,17 @@ Ahnara ist die größte Handelsstadt im Süden der Nachtwälder. Die Stadt wurde
 
 ## Regierung
 
-Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von einer göttlichen Gesandten gegründet. Ihre Blutlinie regiert bis heute die Stadt. der aktuelle Herrscher ist noch jung und unerfahren, sodass er sich auf die wichtigsten adligen Familien der Silberküste verlässt. Zu den 3 wichtigsten gehören:
+Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von einer göttlichen Gesandten gegründet. Ihre Blutlinie regiert bis heute die Stadt. Die Namen der Könige wurden bereits bei der Gründung der Stadt vorhergesagt. Allerdings ist der letzte könig vor 2 Jahren gestorben, ohne einen Erben mit dem nächsten Namen zu hinterlassen. Sein jüngerer Bruder, der zu der Zeit erst 17 Jahre alt war, ist der aktuelle Regent. 
+Die Witwe des letzten Königs, Maella [[Familie Tirianel|Tirianel]] hat erneut geheiratet und erwartet ein Kind, das den Namen des nächsten Königs tragen soll, auch wenn es keinerlei göttliches Blut besitzt. Der Regent hat sich dem Druck der hohen Häuser von Ahnara, selbst möglichst bald eine Ehefrau zu finden und einen Erben zu zeugen noch nicht gebuugt. Manchen kommt das vielleicht gar nicht ungelegen, denn der junge Regent ist einfach zu beeinflussen.
+
+Die drei wichtigsten Häuser von Ahnara, mit Land in der Silberküste sind:
 - [[Familie Tirianel]]: Aiuvarin/Halbelfen
 - Haus Zeshor: alteingesessene menschliche Familie, der die Baronie an der Grenze zu [[Isfanyr]]gehört
-- Familie Ameena: Großfamilie von Gnomen, die es sich zur Aufgabe gemacht hat, den Wald rund um Ahnara zu erforschen
+- Familie Ameena: Großfamilie von Gnomen, deren Länder, wenn man es so nenn will, nicht an der sioberküste liegen sondern im tiefen Wald.
 
 ## Wirtschaft
 
-Der Ahnarische Din entspricht einer Silbermünze und ist die allgemien anerkannte Währung der Nachtwälder. 10 Din entsprechen einem Cendin, einer Goldmünze. Auf der 50-Cendin-Münze ist das Abbild der Gründerin Ahnaras geprägt.
+Der Ahnarische Din entspricht einer Silbermünze und ist die allgemein anerkannte Währung der Nachtwälder. 10 Din entsprechen einem Cendin, einer Goldmünze. Auf der 50-Cendin-Münze ist das Abbild der Gründerin Ahnaras geprägt.
 
 ## Kulturen und Spezies
 
@@ -22,7 +25,7 @@ Der Ahnarische Din entspricht einer Silbermünze und ist die allgemien anerkannt
 Menschen machen gut die Hälfte der Bevölkerung Ahnaras aus. 
 
 ### Halblinge
-Es gibt eine große Halblingsgemeinschaft in Ahnara. Die meisten Halblinge kommen jedoch aus einer der vielen Siedlungen entlang des Caardoran nördlich von Ahnara. 
+Es gibt eine große Halblingsgemeinschaft in Ahnara. Die meisten Halblinge kommen jedoch aus einer der vielen Siedlungen entlang des Carradoran nördlich von Ahnara. 
 
 
 %% Die Gründerin der Stadt ist verschwunden, es ranken sich viele Legenden um ihren Verbleib. Was niemand weiß: sie ist noch immer unter ihrer Stadt gefangen, wo sie mit Magie gefangen ist und etwas Böses davon abhält, die Silberküste heim zu suchen %%

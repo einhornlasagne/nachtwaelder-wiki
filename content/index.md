@@ -58,7 +58,7 @@ Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten 
 - die Tiefebene ist fruchtbar und bewohnt, die Hochebene eine unbewohnbare Einöde
 - Die Klippen selbst sind die Heimat der Zwerge
 
-### [[Belmarvyn]]
+### [[Belegard]]
 
 - die Hauptstadt der Zwerge
 - Am Eingang einer riesigen Schlucht, die von den Zwergen bewacht wird
@@ -82,7 +82,7 @@ Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten 
 
 > [!example] Legende
 > A [[Ahnara]]
-B [[Belmarvyn]]
+B [[Belegard]]
 C [[Carravin]]
 S [[Skarnov]]
 
