@@ -18,3 +18,7 @@ https://app.demiplane.com/nexus/pathfinder2e
 Cheat-sheet:
 https://worldhub.azurewebsites.net/Handouts/Pathfinder%202e%20Remaster%20Actions%20and%20Activites%20Cheat%20Sheet%20(Light%20Mode)-1.pdf
 
+Pathfinder in 7 minutes or less:
+
+https://www.youtube.com/watch?v=aIjmKiooRR8&list=PLn3PApm8tx0c07YnP3Rztn4MX7ztnWuLx
+

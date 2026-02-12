@@ -5,6 +5,8 @@ tags:
 ---
 Ahnara ist die größte Handelsstadt im Süden der Nachtwälder. Die Stadt wurde durch Zölle auf die Schiffe, die den [[Carradoran]] hinauf in die Wälder fahren reich. 
 
+![[Ahnara.png]]
+
 ## Regierung
 
 Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von einer göttlichen Gesandten gegründet. Ihre Blutlinie regiert bis heute die Stadt. Die Namen der Könige wurden bereits bei der Gründung der Stadt vorhergesagt. Allerdings ist der letzte könig vor 2 Jahren gestorben, ohne einen Erben mit dem nächsten Namen zu hinterlassen. Sein jüngerer Bruder, der zu der Zeit erst 17 Jahre alt war, ist der aktuelle Regent. 
@@ -13,7 +15,7 @@ Die Witwe des letzten Königs, Maella [[Familie Tirianel|Tirianel]] hat erneut g
 Die drei wichtigsten Häuser von Ahnara, mit Land in der Silberküste sind:
 - [[Familie Tirianel]]: Aiuvarin/Halbelfen
 - Haus Zeshor: alteingesessene menschliche Familie, der die Baronie an der Grenze zu [[Isfanyr]]gehört
-- Familie Ameena: Großfamilie von Gnomen, deren Länder, wenn man es so nenn will, nicht an der sioberküste liegen sondern im tiefen Wald.
+- Familie Ameena: Großfamilie von Gnomen, deren Länder, wenn man es so nennen will, nicht an der Silberküste liegen, sondern im tiefen Wald.
 
 ## Wirtschaft
 
