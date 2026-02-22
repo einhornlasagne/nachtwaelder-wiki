@@ -2,6 +2,7 @@
 title: Carravin
 draft: false
 tags:
+  - "#lexi"
 ---
 Eine Stadt inmitten der Wälder, die für den Handel nur über den [[Carradoran]] und seine Nebenarme erreichbar ist.
 

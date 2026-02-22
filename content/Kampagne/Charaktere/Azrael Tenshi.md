@@ -1,6 +1,6 @@
 ---
 title: Azrael
-draft: true
+draft: false
 tags:
   - "#lexi"
 ---
