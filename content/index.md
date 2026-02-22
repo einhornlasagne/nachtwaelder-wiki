@@ -8,7 +8,7 @@ banner: "[[headerFluss.jpg]]"
 
 Willkommen in den Nachtwäldern!
 
-Alle wichtigen Links findet ihr [[Links|hier]].
+Alle wichtigen Links findet ihr [[Links|hier]], Infos zur Charaktererstellung[[Charaktererstellung| hier]].
 
 Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten ins Wiki führen (hoffe ich).
 
