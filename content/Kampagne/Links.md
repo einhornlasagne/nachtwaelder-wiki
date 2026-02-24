@@ -11,9 +11,9 @@ Die *Archives of Nethys* beinhalten alle offiziellen veröffentlichten Regelwerk
 
 https://2e.aonprd.com/
 
-Falls ihr schon mal einen Charakter basteln wollt (braucht einen Account). Ist aber nicht notwendig, da wir die Charaktere in Foundry bauen und aktuell halten :)
+Falls ihr schon mal einen Charakter basteln wollt. Ist aber nicht notwendig, da wir die Charaktere in Foundry bauen und aktuell halten :)
 
-https://app.demiplane.com/nexus/pathfinder2e
+https://pathbuilder2e.com/
 
 Cheat-sheet:
 https://worldhub.azurewebsites.net/Handouts/Pathfinder%202e%20Remaster%20Actions%20and%20Activites%20Cheat%20Sheet%20(Light%20Mode)-1.pdf
