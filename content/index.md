@@ -89,4 +89,5 @@ S [[Skarnov]]
 ## Kultur, Religion und anderes
 
 - Wichtig zu wissen für alle, die Kleriker, Streiter oder einen magiekundigen Charakter spielen: [[Magie und Religion]] (und für die anderen auch)
+- Eine Übersicht über die häufigsten Spezies, und welche Besonderheiten diese in den Nachtwäldern besitzen: [[Gewöhnliche Abstammungen]]
 
