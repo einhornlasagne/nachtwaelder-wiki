@@ -78,14 +78,7 @@ Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten 
 
 ## Eine  Karte
 
-![[Karte.png]]
-
-> [!example] Legende
-> A [[Ahnara]]
-B [[Belegard]]
-C [[Carravin]]
-S [[Skarnov]]
-
+![[Nachtwälder.jpg]]
 ## Kultur, Religion und anderes
 
 - Wichtig zu wissen für alle, die Kleriker, Streiter oder einen magiekundigen Charakter spielen: [[Magie und Religion]] (und für die anderen auch)
