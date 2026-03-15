@@ -6,12 +6,11 @@ tags:
 ---
 Ahnara ist die größte Handelsstadt im Süden der Nachtwälder. Die Stadt wurde durch Zölle auf die Schiffe, die den [[Carradoran]] hinauf in die Wälder fahren reich. 
 
-![[Ahnara.png]]
-
+![[Ahnara1.png|800]]
 ## Regierung
 
-Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von einer göttlichen Gesandten gegründet. Ihre Blutlinie regiert bis heute die Stadt. Die Namen der Könige wurden bereits bei der Gründung der Stadt vorhergesagt. Allerdings ist der letzte König vor 2 Jahren gestorben, ohne einen Erben mit dem nächsten Namen zu hinterlassen. Sein jüngerer Bruder, der zu der Zeit erst 17 Jahre alt war, übernahm die Regentschaft.
-Die Witwe des letzten Königs, Maella [[Familie Tirianel|Tirianel]] hat erneut geheiratet und erwartet ein Kind, das den Namen des nächsten Königs tragen soll, auch wenn es keinerlei göttliches Blut besitzt. Nach einer blutigen Auseinandersetzung zwischen der Familie der Königinwitwe und den Unterstützern des Regenten wurde dieser aus Ahnara vertrieben und alle, die ihm treu waren, verbannt. Nicht alle wihctigen HÄuser in Ahnara halten diese Entscheidung für richtig, doch im Moment regiert Maella Tirianel unangefochten eine der wichtigsten Städte der Nachtwälder. 
+Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von der göttlichen Gesandten Altraïa an-[[Xaësis]] gegründet. Ihre Blutlinie regiert bis heute die Stadt. Die Namen der Könige wurden bereits bei der Gründung der Stadt vorhergesagt. Allerdings ist der letzte König vor 2 Jahren gestorben, ohne einen Erben mit dem nächsten Namen zu hinterlassen. Sein jüngerer Bruder, [[Edrin Anaeris]] der zu der Zeit erst 17 Jahre alt war, übernahm die Regentschaft.
+Die Witwe des letzten Königs, Maella [[Familie Tirianel|Tirianel]] hat erneut geheiratet und erwartet ein Kind, das den Namen des nächsten Königs tragen soll, auch wenn es keinerlei göttliches Blut besitzt. Nach einer blutigen Auseinandersetzung zwischen der Familie der Königinwitwe und Anaeris' Unterstützern wurde dieser aus Ahnara vertrieben und alle, die ihm treu waren, verbannt. Nicht alle wichtigen Häuser in Ahnara halten diese Entscheidung für richtig, doch im Moment regiert Maella Tirianel unangefochten eine der wichtigsten Städte der Nachtwälder. 
 
 Die drei wichtigsten Häuser von Ahnara, mit Land in der Silberküste sind:
 - [[Familie Tirianel]]: Aiuvarin/Halbelfen
