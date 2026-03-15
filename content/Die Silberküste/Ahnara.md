@@ -10,8 +10,8 @@ Ahnara ist die größte Handelsstadt im Süden der Nachtwälder. Die Stadt wurde
 
 ## Regierung
 
-Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von einer göttlichen Gesandten gegründet. Ihre Blutlinie regiert bis heute die Stadt. Die Namen der Könige wurden bereits bei der Gründung der Stadt vorhergesagt. Allerdings ist der letzte könig vor 2 Jahren gestorben, ohne einen Erben mit dem nächsten Namen zu hinterlassen. Sein jüngerer Bruder, der zu der Zeit erst 17 Jahre alt war, ist der aktuelle Regent. 
-Die Witwe des letzten Königs, Maella [[Familie Tirianel|Tirianel]] hat erneut geheiratet und erwartet ein Kind, das den Namen des nächsten Königs tragen soll, auch wenn es keinerlei göttliches Blut besitzt. Der Regent hat sich dem Druck der hohen Häuser von Ahnara, selbst möglichst bald eine Ehefrau zu finden und einen Erben zu zeugen noch nicht gebuugt. Manchen kommt das vielleicht gar nicht ungelegen, denn der junge Regent ist einfach zu beeinflussen.
+Sie wurde im Jahr 254 [[Der Meteor|n.M.]] gegründet von einer göttlichen Gesandten gegründet. Ihre Blutlinie regiert bis heute die Stadt. Die Namen der Könige wurden bereits bei der Gründung der Stadt vorhergesagt. Allerdings ist der letzte König vor 2 Jahren gestorben, ohne einen Erben mit dem nächsten Namen zu hinterlassen. Sein jüngerer Bruder, der zu der Zeit erst 17 Jahre alt war, übernahm die Regentschaft.
+Die Witwe des letzten Königs, Maella [[Familie Tirianel|Tirianel]] hat erneut geheiratet und erwartet ein Kind, das den Namen des nächsten Königs tragen soll, auch wenn es keinerlei göttliches Blut besitzt. Nach einer blutigen Auseinandersetzung zwischen der Familie der Königinwitwe und den Unterstützern des Regenten wurde dieser aus Ahnara vertrieben und alle, die ihm treu waren, verbannt. Nicht alle wihctigen HÄuser in Ahnara halten diese Entscheidung für richtig, doch im Moment regiert Maella Tirianel unangefochten eine der wichtigsten Städte der Nachtwälder. 
 
 Die drei wichtigsten Häuser von Ahnara, mit Land in der Silberküste sind:
 - [[Familie Tirianel]]: Aiuvarin/Halbelfen
