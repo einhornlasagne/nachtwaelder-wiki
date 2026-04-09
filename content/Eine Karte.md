@@ -5,7 +5,7 @@ tags:
 ---
 
 
-![[Nachtwälder.jpg|1200]]
+![[Nachtwälder.jpg|800]]
 
 -> Links zu den Orten:
 [[Die Berge]]
