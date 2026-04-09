@@ -10,6 +10,8 @@ Willkommen in den Nachtwäldern!
 
 Alle wichtigen Links findet ihr [[Links|hier]], Infos zur Charaktererstellung[[Charaktererstellung| hier]].
 
+Hier ist ein Rückblick auf die vergangenen Runden: [[01 - Das Fest der frohen Zukunft]]
+
 Eine Kurzübersicht der Welt ist auf dieser Seite, alle orangenen Links sollten ins Wiki führen (hoffe ich).
 
 ![[nachtwaelder.jpg]]
