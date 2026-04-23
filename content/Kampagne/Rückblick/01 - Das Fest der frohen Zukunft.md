@@ -18,4 +18,14 @@ Aiphyria und Yorelor finden das Haus des Gnoms verwaist vor. Aiphyria erkennt ei
 
 Die Gruppe macht sich zu fünft auf die Suche nach den beiden Verschleppten. Sie erreichen eine Linie aus toten Bäumen, die einst der Stadt Carravin Schutz geboten haben, jetzt aber verfaulen. Spinnen bewachen einen graben hinter den Bäumen, aber mit vereinten Kräften kann die Gruppe die Spinnen besiegen (und über den Abhang springen/ klettern). 
 
-Sie stoßen auf einen alten Weg. Auf einer Kreuzung haben Goblins ein Kodama in einem Käfig gefangen. Nach einem blitzschnellen Überraschungsangriff sind die Goblins Geschichte. das befreite Kodama verrät, dass es aus dem Norden kommt und nach einem neuen Hain sucht. Es wird auf die Gruppe warten, sodass die einer Goblinkarte folgen können um die Gefangenen zu befreien. 
+Sie stoßen auf einen alten Weg. Auf einer Kreuzung haben Goblins ein Kodama in einem Käfig gefangen. Nach einem blitzschnellen Überraschungsangriff sind die Goblins Geschichte. Das befreite Kodama verrät, dass es aus dem Norden kommt und nach einem neuen Hain sucht. Es wird auf die Gruppe warten, sodass die einer Goblinkarte folgen können um die Gefangenen zu befreien. 
+
+## 23.4.2026
+
+Die Höhle der Goblins wird von einem Passwort und einem blinden Goblin bewacht, an dem die Abenteurer leicht vorbei kommen. Sie rösten eine Gruppe Goblins in der Höhle und rasen dann zum Anführer der Gruppe. Obwohl der sie mit singenden Tonkrügen ablenkt, besiegt die Gruppe den Anfürher und lassen einen Goblin-Pyromanen am Leben, um ihn später zu befragen. Dann befreien sie Lanwin Schattenzweig und Tomil Sternauge. 
+
+Azrael erfährt, dass ihr Bruder sehr interessiert am Kult der blauen Welle war und will ihm unbedingt folgen. Chen Wu hört Geschichten über die Gottheiten Carravin und der mittlerweile verschwundene Gottheit, die einst über diese Höhle wachte. Nachdem er seine Notizen zu Rate gezogen hat, stellt er einen Zusammenhang zwischen den Goblins, dem zerstörten Tempel und den toten Schutzbäumen Carravins her. Er eröffnet einen neuen Fall: Das Mysterium der zerstörten Heiligtümer.
+
+Aiphyria und Yorelor machen unterdessen einen Deal mit dem Reiseführer Lanwin, der sie zum Dank für seine Rettung ein Stück kostenlos in die Richtung des Vulkangebirges begleiten wird.
+
+Die Gruppe berät sich, ob sie in der Goblinhöhle übernachten wollen, oder es noch vor der Nacht bis zum gäheimen Goblinschatz und zurück nach Carravin schaffen. 
