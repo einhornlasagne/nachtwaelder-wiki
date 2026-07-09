@@ -15,7 +15,7 @@ Elfen sterben nicht an Altersschwäche, stattdessen fallen sie in einen tiefen S
 
 https://pathfinder2e.de/Grundregelwerk/Gnome
 
-Die Vorfahren der Gnome kamen einst aus dem Feenreich und der Teil des Waldes, den die Gnome ihre Heimat nennen, hat immer noch strake Verbindungen zum Feenreich. Die Gnome nennen ihre Wälder die ewigen Wälder, alle anderen nennen diesen Teil der Nachtwälder nur die [[Die Feenwälder|Feenwälder]]. Die Feenwälder befinden sich zwischen dem Hauptarm des [[Carradoran]] und [[Isfanyr]]
+Die Vorfahren der Gnome kamen einst aus dem Feenreich und der Teil des Waldes, den die Gnome ihre Heimat nennen, hat immer noch starke Verbindungen zum Feenreich. Die Gnome nennen ihre Wälder die ewigen Wälder, alle anderen nennen diesen Teil der Nachtwälder nur die [[Die Feenwälder|Feenwälder]]. Die Feenwälder befinden sich zwischen dem Hauptarm des [[Carradoran]] und [[Isfanyr]]
 
 ## Goblins
 
